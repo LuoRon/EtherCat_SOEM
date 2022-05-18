@@ -1,0 +1,2 @@
+# EtherCat_SOEM
+用SOEM库实现的EtherCat主站,可直接用于与具备EtherCat从站的Elmo驱动器进行通信。
