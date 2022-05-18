@@ -1,0 +1,16 @@
+1. run make_types.sh
+   open a new terminal
+   $ cd Control-Software/scripts
+   $ ./make_types.sh
+
+2. run launch_lcm_spy.sh
+   open a new terminal
+   $ cd Control-Software/scripts
+   $ ./launch_lcm_spy.sh
+
+3. run data_log.sh
+   open a new terminal
+   $ cd Control-Software/scripts
+   $ ./data_log.sh
+   generate data.lcm in Control-Software/result-data/lcm_log
+

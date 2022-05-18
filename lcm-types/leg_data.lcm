@@ -1,0 +1,6 @@
+struct leg_data {
+    float q[12];
+    float qd[12];
+    float tau_fb[12];
+    float tau_cmd[12];
+}
